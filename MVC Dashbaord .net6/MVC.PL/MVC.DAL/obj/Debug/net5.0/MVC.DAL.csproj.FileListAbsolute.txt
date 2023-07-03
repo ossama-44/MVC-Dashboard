@@ -1,0 +1,36 @@
+C:\Users\fg\source\repos\MVC.PL\MVC.DAL\bin\Debug\net5.0\MVC.DAL.deps.json
+C:\Users\fg\source\repos\MVC.PL\MVC.DAL\bin\Debug\net5.0\MVC.DAL.dll
+C:\Users\fg\source\repos\MVC.PL\MVC.DAL\bin\Debug\net5.0\MVC.DAL.pdb
+C:\Users\fg\source\repos\MVC.PL\MVC.DAL\obj\Debug\net5.0\MVC.DAL.csproj.AssemblyReference.cache
+C:\Users\fg\source\repos\MVC.PL\MVC.DAL\obj\Debug\net5.0\MVC.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fg\source\repos\MVC.PL\MVC.DAL\obj\Debug\net5.0\MVC.DAL.AssemblyInfoInputs.cache
+C:\Users\fg\source\repos\MVC.PL\MVC.DAL\obj\Debug\net5.0\MVC.DAL.AssemblyInfo.cs
+C:\Users\fg\source\repos\MVC.PL\MVC.DAL\obj\Debug\net5.0\MVC.DAL.csproj.CoreCompileInputs.cache
+C:\Users\fg\source\repos\MVC.PL\MVC.DAL\obj\Debug\net5.0\MVC.DAL.dll
+C:\Users\fg\source\repos\MVC.PL\MVC.DAL\obj\Debug\net5.0\refint\MVC.DAL.dll
+C:\Users\fg\source\repos\MVC.PL\MVC.DAL\obj\Debug\net5.0\MVC.DAL.pdb
+C:\Users\fg\source\repos\MVC.PL\MVC.DAL\obj\Debug\net5.0\ref\MVC.DAL.dll
+D:\Courses\Route\Backend\Lectures\07 ASP Core MVC\Session 04\MVC.PL\MVC.DAL\bin\Debug\net5.0\MVC.DAL.deps.json
+D:\Courses\Route\Backend\Lectures\07 ASP Core MVC\Session 04\MVC.PL\MVC.DAL\bin\Debug\net5.0\MVC.DAL.dll
+D:\Courses\Route\Backend\Lectures\07 ASP Core MVC\Session 04\MVC.PL\MVC.DAL\bin\Debug\net5.0\MVC.DAL.pdb
+D:\Courses\Route\Backend\Lectures\07 ASP Core MVC\Session 04\MVC.PL\MVC.DAL\obj\Debug\net5.0\MVC.DAL.csproj.AssemblyReference.cache
+D:\Courses\Route\Backend\Lectures\07 ASP Core MVC\Session 04\MVC.PL\MVC.DAL\obj\Debug\net5.0\MVC.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\Route\Backend\Lectures\07 ASP Core MVC\Session 04\MVC.PL\MVC.DAL\obj\Debug\net5.0\MVC.DAL.AssemblyInfoInputs.cache
+D:\Courses\Route\Backend\Lectures\07 ASP Core MVC\Session 04\MVC.PL\MVC.DAL\obj\Debug\net5.0\MVC.DAL.AssemblyInfo.cs
+D:\Courses\Route\Backend\Lectures\07 ASP Core MVC\Session 04\MVC.PL\MVC.DAL\obj\Debug\net5.0\MVC.DAL.csproj.CoreCompileInputs.cache
+D:\Courses\Route\Backend\Lectures\07 ASP Core MVC\Session 04\MVC.PL\MVC.DAL\obj\Debug\net5.0\MVC.DAL.dll
+D:\Courses\Route\Backend\Lectures\07 ASP Core MVC\Session 04\MVC.PL\MVC.DAL\obj\Debug\net5.0\refint\MVC.DAL.dll
+D:\Courses\Route\Backend\Lectures\07 ASP Core MVC\Session 04\MVC.PL\MVC.DAL\obj\Debug\net5.0\MVC.DAL.pdb
+D:\Courses\Route\Backend\Lectures\07 ASP Core MVC\Session 04\MVC.PL\MVC.DAL\obj\Debug\net5.0\ref\MVC.DAL.dll
+D:\Courses\Route\Backend\Lectures\07 ASP Core MVC\Session 05\MVC.PL\MVC.DAL\bin\Debug\net5.0\MVC.DAL.deps.json
+D:\Courses\Route\Backend\Lectures\07 ASP Core MVC\Session 05\MVC.PL\MVC.DAL\bin\Debug\net5.0\MVC.DAL.dll
+D:\Courses\Route\Backend\Lectures\07 ASP Core MVC\Session 05\MVC.PL\MVC.DAL\bin\Debug\net5.0\MVC.DAL.pdb
+D:\Courses\Route\Backend\Lectures\07 ASP Core MVC\Session 05\MVC.PL\MVC.DAL\obj\Debug\net5.0\MVC.DAL.csproj.AssemblyReference.cache
+D:\Courses\Route\Backend\Lectures\07 ASP Core MVC\Session 05\MVC.PL\MVC.DAL\obj\Debug\net5.0\MVC.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\Route\Backend\Lectures\07 ASP Core MVC\Session 05\MVC.PL\MVC.DAL\obj\Debug\net5.0\MVC.DAL.AssemblyInfoInputs.cache
+D:\Courses\Route\Backend\Lectures\07 ASP Core MVC\Session 05\MVC.PL\MVC.DAL\obj\Debug\net5.0\MVC.DAL.AssemblyInfo.cs
+D:\Courses\Route\Backend\Lectures\07 ASP Core MVC\Session 05\MVC.PL\MVC.DAL\obj\Debug\net5.0\MVC.DAL.csproj.CoreCompileInputs.cache
+D:\Courses\Route\Backend\Lectures\07 ASP Core MVC\Session 05\MVC.PL\MVC.DAL\obj\Debug\net5.0\MVC.DAL.dll
+D:\Courses\Route\Backend\Lectures\07 ASP Core MVC\Session 05\MVC.PL\MVC.DAL\obj\Debug\net5.0\refint\MVC.DAL.dll
+D:\Courses\Route\Backend\Lectures\07 ASP Core MVC\Session 05\MVC.PL\MVC.DAL\obj\Debug\net5.0\MVC.DAL.pdb
+D:\Courses\Route\Backend\Lectures\07 ASP Core MVC\Session 05\MVC.PL\MVC.DAL\obj\Debug\net5.0\ref\MVC.DAL.dll

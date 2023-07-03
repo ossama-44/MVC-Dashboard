@@ -1,0 +1,177 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Courses\\Route\\Backend\\Lectures\\07 ASP Core MVC\\Session 05\\MVC.PL\\MVC.PL\\wwwroot\\Files\\Imgs\\71acc1df-3097-41a8-8f99-105faca2e5aaIMG_20230216_153939.jpg",
+      "PackagePath": "staticwebassets\\Files\\Imgs\\71acc1df-3097-41a8-8f99-105faca2e5aaIMG_20230216_153939.jpg"
+    },
+    {
+      "Id": "D:\\Courses\\Route\\Backend\\Lectures\\07 ASP Core MVC\\Session 05\\MVC.PL\\MVC.PL\\wwwroot\\Files\\Imgs\\b313a745-c2ab-4521-986e-60a1f03313b6IMG_20230216_153435.jpg",
+      "PackagePath": "staticwebassets\\Files\\Imgs\\b313a745-c2ab-4521-986e-60a1f03313b6IMG_20230216_153435.jpg"
+    },
+    {
+      "Id": "D:\\Courses\\Route\\Backend\\Lectures\\07 ASP Core MVC\\Session 05\\MVC.PL\\MVC.PL\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Courses\\Route\\Backend\\Lectures\\07 ASP Core MVC\\Session 05\\MVC.PL\\MVC.PL\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Courses\\Route\\Backend\\Lectures\\07 ASP Core MVC\\Session 05\\MVC.PL\\MVC.PL\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Courses\\Route\\Backend\\Lectures\\07 ASP Core MVC\\Session 05\\MVC.PL\\MVC.PL\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Courses\\Route\\Backend\\Lectures\\07 ASP Core MVC\\Session 05\\MVC.PL\\MVC.PL\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Courses\\Route\\Backend\\Lectures\\07 ASP Core MVC\\Session 05\\MVC.PL\\MVC.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Courses\\Route\\Backend\\Lectures\\07 ASP Core MVC\\Session 05\\MVC.PL\\MVC.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Courses\\Route\\Backend\\Lectures\\07 ASP Core MVC\\Session 05\\MVC.PL\\MVC.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Courses\\Route\\Backend\\Lectures\\07 ASP Core MVC\\Session 05\\MVC.PL\\MVC.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Courses\\Route\\Backend\\Lectures\\07 ASP Core MVC\\Session 05\\MVC.PL\\MVC.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Courses\\Route\\Backend\\Lectures\\07 ASP Core MVC\\Session 05\\MVC.PL\\MVC.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Courses\\Route\\Backend\\Lectures\\07 ASP Core MVC\\Session 05\\MVC.PL\\MVC.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Courses\\Route\\Backend\\Lectures\\07 ASP Core MVC\\Session 05\\MVC.PL\\MVC.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Courses\\Route\\Backend\\Lectures\\07 ASP Core MVC\\Session 05\\MVC.PL\\MVC.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Courses\\Route\\Backend\\Lectures\\07 ASP Core MVC\\Session 05\\MVC.PL\\MVC.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Courses\\Route\\Backend\\Lectures\\07 ASP Core MVC\\Session 05\\MVC.PL\\MVC.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Courses\\Route\\Backend\\Lectures\\07 ASP Core MVC\\Session 05\\MVC.PL\\MVC.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Courses\\Route\\Backend\\Lectures\\07 ASP Core MVC\\Session 05\\MVC.PL\\MVC.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Courses\\Route\\Backend\\Lectures\\07 ASP Core MVC\\Session 05\\MVC.PL\\MVC.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Courses\\Route\\Backend\\Lectures\\07 ASP Core MVC\\Session 05\\MVC.PL\\MVC.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Courses\\Route\\Backend\\Lectures\\07 ASP Core MVC\\Session 05\\MVC.PL\\MVC.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Courses\\Route\\Backend\\Lectures\\07 ASP Core MVC\\Session 05\\MVC.PL\\MVC.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Courses\\Route\\Backend\\Lectures\\07 ASP Core MVC\\Session 05\\MVC.PL\\MVC.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Courses\\Route\\Backend\\Lectures\\07 ASP Core MVC\\Session 05\\MVC.PL\\MVC.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Courses\\Route\\Backend\\Lectures\\07 ASP Core MVC\\Session 05\\MVC.PL\\MVC.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Courses\\Route\\Backend\\Lectures\\07 ASP Core MVC\\Session 05\\MVC.PL\\MVC.PL\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Courses\\Route\\Backend\\Lectures\\07 ASP Core MVC\\Session 05\\MVC.PL\\MVC.PL\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Courses\\Route\\Backend\\Lectures\\07 ASP Core MVC\\Session 05\\MVC.PL\\MVC.PL\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Courses\\Route\\Backend\\Lectures\\07 ASP Core MVC\\Session 05\\MVC.PL\\MVC.PL\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Courses\\Route\\Backend\\Lectures\\07 ASP Core MVC\\Session 05\\MVC.PL\\MVC.PL\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Courses\\Route\\Backend\\Lectures\\07 ASP Core MVC\\Session 05\\MVC.PL\\MVC.PL\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Courses\\Route\\Backend\\Lectures\\07 ASP Core MVC\\Session 05\\MVC.PL\\MVC.PL\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Courses\\Route\\Backend\\Lectures\\07 ASP Core MVC\\Session 05\\MVC.PL\\MVC.PL\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Courses\\Route\\Backend\\Lectures\\07 ASP Core MVC\\Session 05\\MVC.PL\\MVC.PL\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Courses\\Route\\Backend\\Lectures\\07 ASP Core MVC\\Session 05\\MVC.PL\\MVC.PL\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Courses\\Route\\Backend\\Lectures\\07 ASP Core MVC\\Session 05\\MVC.PL\\MVC.PL\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Courses\\Route\\Backend\\Lectures\\07 ASP Core MVC\\Session 05\\MVC.PL\\MVC.PL\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.MVC.PL.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.MVC.PL.props",
+      "PackagePath": "build\\MVC.PL.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.MVC.PL.props",
+      "PackagePath": "buildMultiTargeting\\MVC.PL.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.MVC.PL.props",
+      "PackagePath": "buildTransitive\\MVC.PL.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
